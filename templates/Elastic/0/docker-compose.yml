@@ -1,5 +1,5 @@
 Editted_myService:
-  restart: no
+  restart: yes
   tty: true
-  image: ubuntu:14.04.2
+  image: ubuntu:14.04.2!!!!!!!
   stdin_open: true
